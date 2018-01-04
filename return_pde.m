@@ -24,7 +24,7 @@ command = 'python /Users/jvkyleeclarin/Desktop/change_stl.py change_stl';
 % run this if you get into trouble
 % [status,cmdout] = system(command);
 system(command);
-'''
+
 importGeometry(model,'/Users/jvkyleeclarin/Desktop/new_stl_file.stl');
 
 
