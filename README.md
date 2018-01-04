@@ -1,2 +1,9 @@
 # Structures_and_Matlab
-combining a genetic algorithm and matlab pde to find the optimal structure for any project (almost)
+
+I've combined a genetic algorithm from Matlab with Blender and Python to find the optimal structure for any project (almost)
+
+Dependencies:
+  1) Matlab 2017 B
+  2) Python 2.7 and Python 3.x
+  3) Blender 2.79
+  
