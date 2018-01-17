@@ -37,7 +37,7 @@ the object is an open cylinder.
     path = bpy.path.abspath('/Users/jvkyleeclarin/Desktop/')
     # make sure path exists
     if not os.path.exists(path):
-        print('Configure line 36 in change_stl.py')
+        print('Configure path in change_stl.py')
         # os.makedirs(path)
     # make array of x, y, z for each point
     # comes from genetic algorithm
