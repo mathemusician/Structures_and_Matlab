@@ -11,7 +11,7 @@ Dependencies:
   3) Blender 2.79   
   
 
-In order to work, you have to change lines 37, 75, 76, and 93 in change_stl.py and lines 11, 16, 17, 18, 23, and 28 in return_pde.m
+## In order to work, you have to change lines 37, 75, 76, and 93 in change_stl.py and lines 11, 16, 17, 18, 23, and 28 in return_pde.m
 
 To do:
 
