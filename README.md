@@ -1,6 +1,6 @@
 # Structures_and_Matlab
 
-I've combined a genetic algorithm from Matlab with Blender and Python to find the optimal structure for any project (almost)
+I've combined the Matlab genetic algorithm with Blender and Python to find the optimal structure for any project (almost)
 
 Dependencies:  
   
@@ -10,3 +10,8 @@ Dependencies:
   2) Python 2.7 and Python 3.x  
   3) Blender 2.79   
   
+In order to work, you have to change lines 37, 75, 76, and 93 in change_stl.py and lines 11, 16, 17, 18, 23, and 28 in return_pde.m.
+
+To do:
+  Should reduce the number of lines that need to be changed.
+  Should be generalized to move vertices within constraints from the center of gravity.
